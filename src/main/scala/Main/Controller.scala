@@ -41,7 +41,7 @@ object Controller {
         GUI.showMessage("Open the gate! is " + name + " the Peasent!")
         outside(new Peasent(name))
       }
-      case "6" => println("Fuck off!")
+      case "6" => GUI.showMessage("Fuck off!")
       case _ => {
         GUI.showMessage("Wrong option")
         choosePlayer(name)

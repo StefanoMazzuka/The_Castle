@@ -11,5 +11,5 @@ object Main extends App {
   GUI.title()
   GUI.castle()
   Controller.selectName()
-  Thread.sleep(5000)
+  Thread.sleep(4000)
 }
