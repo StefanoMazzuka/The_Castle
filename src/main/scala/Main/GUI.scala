@@ -182,7 +182,7 @@ object GUI {
   def kitchen(): Unit = {
     println("                     ")
     println("|                    ")
-    println("3                    ")
+    println("1                    ")
     println("|                    ")
     println("            \\\\\\   ")
     println("     ________```     ")
